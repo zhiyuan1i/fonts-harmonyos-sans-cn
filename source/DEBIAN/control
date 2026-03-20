@@ -2,12 +2,12 @@ Package: fonts-harmonyos-sans-cn
 Version: 1.0.0
 Architecture: all
 Maintainer: uniartisan <lizhiyuan@uniartisan.com>
-Installed-Size: 23696
-Suggests: fontconfig, ghostscript
+Installed-Size: 49304
+Suggests: fontconfig
 Section: non-free/fonts
 Priority: optional
 Multi-Arch: foreign
-Description:  鸿蒙字体 HarmonyOS Sans SC (SC 代表“简体中文版”)
+Description:  鸿蒙黑体 HarmonyOS Sans SC (SC 代表“简体中文版”)
  Harmony Sans Software (Copyright 2022 Huawei Device Co., Ltd.) is licensed under
  Harmony Sans Copyright License Agreement.
 
