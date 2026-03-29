@@ -1,13 +1,20 @@
 Package: fonts-harmonyos-sans-sc
-Version: 1.0.0
+Version: 2.400-1
 Architecture: all
 Maintainer: uniartisan <lizhiyuan@uniartisan.com>
-Installed-Size: 49304
+Installed-Size: 57952
 Suggests: fontconfig
 Section: non-free/fonts
 Priority: optional
 Multi-Arch: foreign
+Homepage: https://developer.huawei.com/consumer/cn/design/resource/
 Description:  鸿蒙黑体 HarmonyOS Sans SC (SC 代表“简体中文版”)
- Harmony Sans Software (Copyright 2022 Huawei Device Co., Ltd.) is licensed under
- Harmony Sans Copyright License Agreement.
+ HarmonyOS Sans 是华为 HarmonyOS 的默认字体，由华为联合汉仪字库设计，可以免费商用。
+ .
+ HarmonyOS Sans 是一款无衬线字体，它没有额外的装饰笔画，结构更加简洁清晰，在 UI 界面上具有
+ 更良好的屏幕显示效果，并且能带来更高阅读效率。HarmonyOS Sans 在字体设计上考虑了多元的应用
+ 场景，优化字形显示的灰度效果，以达到在多端的应用场景下拥有一致的体验效果。
+ .
+ Copyright 2021 Huawei Device Co., Ltd.
+ HarmonyOS Sans Fonts Software is licensed under HarmonyOS Sans Fonts License Agreement.
 
